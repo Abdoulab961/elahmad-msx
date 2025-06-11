@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "title": "Elahmad TV",
+      "subtitle": "بث مباشر من Elahmad",
+      "icon": "https://i.imgur.com/NFD6uWL.png",
+      "action": {
+        "type": "open",
+        "url": "https://www.elahmad.com/tv/"
+      }
+    }
+  ]
+}
